@@ -17,7 +17,7 @@ The tool does not currently give fine grained control over the payload generatio
 ### Requirements
 
 * cmake
-* netsnmp-devel
+* netsnmp-devel (libsnmp-dev on Ubuntu)
 
 ### Compiling
 
